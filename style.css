@@ -125,6 +125,11 @@ p {
 .userpic {
   width: 32px;
   height: 32px;
+  background-image: url("./assets/images/image-avatar.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 500px;
 }
 
 .authorname {
